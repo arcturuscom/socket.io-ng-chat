@@ -27,7 +27,7 @@ export class ChatComponent implements OnInit, AfterViewInit {
   defaultDialogUserParams: any = {
     disableClose: true,
     data: {
-      title: 'Welcome',
+      title: 'Welcome, please register',
       dialogType: DialogUserType.NEW
     }
   };
